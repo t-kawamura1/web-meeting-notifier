@@ -1,0 +1,7 @@
+{
+  "name": "web-meeting-notifier",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
